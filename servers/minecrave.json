@@ -1,0 +1,41 @@
+{
+    "id": "minecrave",
+    "name": "MineCrave",
+    "description": "F2P Friendly MC Server | Next Gen Lifesteal | Skyblock | OP Prison",
+    "addresses": [
+        "minecrave.org"
+    ],
+    "primaryAddress": "minecrave.org",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.*",
+    "primaryColor": "#cc0000",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Hardcore"
+    ],
+    "store": "https://store.minecrave.org",
+    "compliance": {
+        "termsOfService": "https://store.minecrave.org/terms"
+    },
+    "socials": {
+        "twitter": "minecravemc",
+        "tiktok": "minecravemc",
+        "discord": "https://www.discord.gg/minecrave"
+    },
+    "crossplay": true
+}
